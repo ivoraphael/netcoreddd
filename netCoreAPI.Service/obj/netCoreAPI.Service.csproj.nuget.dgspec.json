@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Service\\netCoreAPI.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
+        "projectName": "netCoreAPI.Domain",
+        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\t_raphaels2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t_raphaels2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Service\\netCoreAPI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Service\\netCoreAPI.Service.csproj",
+        "projectName": "netCoreAPI.Service",
+        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Service\\netCoreAPI.Service.csproj",
+        "packagesPath": "C:\\Users\\t_raphaels2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t_raphaels2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj"
+              },
+              "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {
+                "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
+        "projectName": "netCoreAPI.Structure",
+        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
+        "packagesPath": "C:\\Users\\t_raphaels2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t_raphaels2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
