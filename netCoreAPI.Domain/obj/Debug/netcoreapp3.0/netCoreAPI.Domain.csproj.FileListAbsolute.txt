@@ -6,3 +6,10 @@ C:\Users\t_raphaels2\Documents\private\api\netCoreAPI.Domain\obj\Debug\netcoreap
 C:\Users\t_raphaels2\Documents\private\api\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.dll
 C:\Users\t_raphaels2\Documents\private\api\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.pdb
 C:\Users\t_raphaels2\Documents\private\api\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.csprojAssemblyReference.cache
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\bin\Debug\netcoreapp3.0\netCoreAPI.Domain.deps.json
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\bin\Debug\netcoreapp3.0\netCoreAPI.Domain.dll
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\bin\Debug\netcoreapp3.0\netCoreAPI.Domain.pdb
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.AssemblyInfo.cs
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.dll
+C:\Users\t_raphaels2\Documents\private\netcoreddd\netCoreAPI.Domain\obj\Debug\netcoreapp3.0\netCoreAPI.Domain.pdb

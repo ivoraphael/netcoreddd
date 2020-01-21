@@ -10,7 +10,8 @@ using System.Collections.Generic;
 
 namespace netCoreAPI.Application.Controllers
 {
-    [Route("api/[controller]")]
+    [ApiController]
+    [Route("[controller]")]
     public class UserController : ControllerBase
     {
         private readonly UserService service = new UserService();

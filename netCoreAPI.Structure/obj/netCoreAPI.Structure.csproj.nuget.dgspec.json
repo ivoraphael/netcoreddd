@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {}
+    "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
+    "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
         "projectName": "netCoreAPI.Domain",
-        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\t_raphaels2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {
+    "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
+        "projectUniqueName": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
         "projectName": "netCoreAPI.Structure",
-        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
+        "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Structure\\netCoreAPI.Structure.csproj",
         "packagesPath": "C:\\Users\\t_raphaels2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Structure\\obj\\",
+        "outputPath": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Structure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -100,8 +100,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\api\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj"
+              "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\t_raphaels2\\Documents\\private\\netcoreddd\\netCoreAPI.Domain\\netCoreAPI.Domain.csproj"
               }
             }
           }
